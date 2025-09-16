@@ -8,6 +8,8 @@ and allow potential clients to reserve dates / book sessions for the 2026 season
 This page's goal is to present a stylish announcement for the photographer’s upcoming website, showcase a hero visual and short pitch, 
 and collect leads with a single clear CTA (email capture / "Reserve Your Date").
 
+Live Link: https://thaps72.github.io/Coming-Soon-Page_2/
+
 🧩 Features
 
 Responsive hero header with logo and headline

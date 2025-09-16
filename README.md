@@ -32,5 +32,5 @@ Figma & Final Product
 <img width="1440" height="900" alt="Screenshot 2025-09-16 at 06 09 29" src="https://github.com/user-attachments/assets/de3e87e4-7d3d-42<img width="1436" height="856" alt="Screenshot 2025-09-16 at 06 09 18" src="https://github.com/user-attachments/assets/d92081a7-a4db-43bc-8ba9-9c3eeb3221d2" />
 <img width="1432" height="855" alt="Screenshot 2025-09-16 at 06 08 43" src="https://github.com/user-attachments/assets/f8747886-936c-4398-9725-2f15587c6418" />
 <img width="1433" height="839" alt="Screenshot 2025-09-16 at 06 08 26" src="https://github.com/user-attachments/assets/87ed7ee7-4175-46ed-b2de-fc8bd1a770b0" />
-6a-8026-14dec339b871" />
+
 
